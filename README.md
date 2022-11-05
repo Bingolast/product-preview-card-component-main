@@ -26,7 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
-![image](./screenshot.jpg)
+![image]([./screenshot.jpg](https://github.com/Bingolast/product-preview-card-component-main/blob/main/Screenshot%202022-11-05%20at%2017-41-15%20Frontend%20Mentor%20Product%20preview%20card%20component.jpg?raw=true))
+![image]([./screenshot.jpg](https://github.com/Bingolast/product-preview-card-component-main/blob/main/Screenshot%202022-11-05%20at%2017-43-13%20Frontend%20Mentor%20Product%20preview%20card%20component.jpg?raw=true))
 
 ### Links
 
