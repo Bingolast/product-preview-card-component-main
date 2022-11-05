@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/this-is-my-solution-for-productpreviewcardcomponentmain-MUTHiv1vLn](https://your-solution-url.com)
-- Live Site URL:[https://productpreviewcardchallenge.netlify.app/](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/this-is-my-solution-for-productpreviewcardcomponentmain-MUTHiv1vLn](https://www.frontendmentor.io/solutions/this-is-my-solution-for-productpreviewcardcomponentmain-MUTHiv1vLn)
+- Live Site URL:[https://productpreviewcardchallenge.netlify.app/]([https://your-solution-url.com](https://productpreviewcardchallenge.netlify.app/))
 ### Built with
 
 - Semantic HTML5 markup
