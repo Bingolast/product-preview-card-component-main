@@ -10,8 +10,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Links](#links)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -26,12 +24,11 @@ Users should be able to:
 
 ### Screenshot
 
-![image]([./screenshot.jpg](https://github.com/Bingolast/product-preview-card-component-main/blob/main/Screenshot%202022-11-05%20at%2017-41-15%20Frontend%20Mentor%20Product%20preview%20card%20component.jpg?raw=true))
-![image]([./screenshot.jpg](https://github.com/Bingolast/product-preview-card-component-main/blob/main/Screenshot%202022-11-05%20at%2017-43-13%20Frontend%20Mentor%20Product%20preview%20card%20component.jpg?raw=true))
+![image](https://github.com/Bingolast/product-preview-card-component-main/blob/main/Screenshot%202022-11-05%20at%2017-41-15%20Frontend%20Mentor%20Product%20preview%20card%20component.jpg?raw=true)
 
 ### Links
 
-- Solution URL: [[Add solution URL here](https://productpreviewcardchallenge.netlify.app/)](https://your-solution-url.com)
+- Solution URL: [https://productpreviewcardchallenge.netlify.app/](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ### Built with
