@@ -1,0 +1,120 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  max-width: 1440px;
+  background: hsl(30, 38%, 92%);
+  margin: 19rem;
+}
+
+p {
+  font-size: 14px;
+}
+
+#container {
+  display: flex;
+  flex: 1;
+  background: hsl(0, 0%, 100%);
+  align-items: flex-start;
+  justify-content: center;
+  border-radius: 25px;
+  gap: 1rem;
+  z-index: 1;
+  margin-bottom: 1rem;
+}
+
+#container img {
+  height: 500px;
+  width: 80vw;
+  border-top-left-radius: 25px;
+  border-bottom-left-radius: 25px;
+}
+
+#container .product-info {
+  display: flex;
+  flex-direction: column;
+  padding: 2rem;
+  font-family: "Montserrat";
+}
+
+#container .product-info .m-heading {
+  opacity: 50%;
+  margin-bottom: 2rem;
+}
+
+#container .product-info .main-content {
+  align-self: center;
+  font-size: 1.4rem;
+  font-family: "Fraunces";
+  margin-bottom: 1rem;
+}
+
+#container .product-info .main-content .main-info {
+  font-size: 1rem;
+  color: hsl(228, 12%, 48%);
+  padding: 1rem 0;
+}
+
+#container .pricing {
+  display: flex;
+  font-family: "Fraunces";
+  margin-bottom: 3rem;
+}
+#container .pricing p {
+  margin-right: 1.3rem;
+  font-size: clamp(2rem, 0.5rem, 1rem);
+  color: hsl(158, 36%, 37%);
+}
+
+#container .pricing .light {
+  font-size: clamp(0.9rem, 0.5rem, 1rem);
+  align-self: center;
+}
+
+#container .pricing .dark {
+  font-weight: 700;
+}
+#container i {
+  background: hsl(158, 36%, 37%);
+  padding: 10px;
+  text-align: center;
+  border-radius: 13px;
+}
+
+#container i a {
+  margin-left: 0.5rem;
+  text-decoration: none;
+  color: #fff;
+  font-family: "Montserrat";
+  font-weight: 400;
+}
+
+.attribution {
+  font-size: clamp(11px, 0.5rem, 1rem);
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+@media (max-width: 812px) {
+  body {
+    margin: 3rem;
+  }
+  #container {
+    flex-direction: column;
+  }
+
+  #container img {
+    width: 100%;
+    height: 30vh;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 0;
+  }
+  #container .product-info {
+  }
+}
